@@ -1,4 +1,4 @@
-module com
+module github.com/worldstoneyjj/com
 
 go 1.23.2
 
