@@ -1,0 +1,8 @@
+{
+    "api": {
+      "msg1": "11111的中文翻译",
+      "msg2": "22222的中文翻译",
+      "balanceMsg": "Hello, {{.Name}}, your balance is {{.Bal}}"
+    }
+  }
+  
